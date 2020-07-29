@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ThreadLesson
+namespace IndexersDemo
 {
     public enum Gender: short
     {
